@@ -14,4 +14,31 @@ var result = 10 + 20;
 
 
 // 4.3 변수 선언
+// 변수 선언할때는 var, let, const 키워드를 사용
+
+var score; // 변수선언
+
+console.log(score2);
+
+var score2; //변수선언이 어디에 있든 상관없이 다른 코드보다 먼저 실행됨
+
+var score3;
+score3 = 80;
+
+var score4 = 80;
+
+console.log(score5);
+
+var score5;
+score5 = 80;
+
+console.log(score5)
+
+
+var score6 = 80;
+score6 = 90;
+
+
+//5.1 값
+
 
